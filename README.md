@@ -26,5 +26,16 @@ Por Nome: gelElementByName()[]
 
 Por Classe: gelElementBy()[]
 
+Por Seletor: querySelector/querySelectorAll(), div(#), class(.)
+
+innerText (Alterar o texto slecionado)
+
+innerHTML ( Atera o texto mas permanece a formatação )
+
+.write (escrever algo)
+
+
+
+
 
 
