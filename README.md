@@ -34,6 +34,9 @@ innerHTML ( Atera o texto mas permanece a formatação )
 
 .write (escrever algo)
 
+Eventos DOM:
+mouseenter, mousemove, mousedown( clicar e segurar), mouseup( soltar o botão do mouse), click, mouseout.
+
 
 
 
