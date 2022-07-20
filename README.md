@@ -38,6 +38,11 @@ Eventos DOM:
 mouseenter, mousemove, mousedown( clicar e segurar), mouseup( soltar o botão do mouse), click, mouseout.
 
 
+# TypeScript
+
+TypeScript é um superconjunto de JavaScript, ou seja, um conjunto de ferramentas e formas mais eficientes de escrever código JavaScript, adicionando recursos que não estão presentes de maneira nativa na linguagem. 
+
+
 
 
 
